@@ -1,6 +1,6 @@
 
-import numpy as np
-from matplotlib import pyplot as plt
+import numpy as np # type: ignore
+from matplotlib import pyplot as plt # type: ignore
 from mnist_loader import load_data
 
 def init_params():

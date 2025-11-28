@@ -62,4 +62,3 @@ Model based on Samson Zhang's video
 MNIST dataset by Yann LeCun
 
 GitHub mirror for MNIST data
-
